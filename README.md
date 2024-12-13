@@ -52,7 +52,7 @@ Development features:
 
 ## Getting Started
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&color=F7F7F7&background=000000&multiline=true&width=625&height=165&lines=git+clone+https%3A%2F%2Fgithub.com%2Fid-andyyy%2FAlfaHack.git;cd+AlfaHack;pip+install+-r+requirements.txt;python+main.py)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&color=F7F7F7&background=000000&multiline=true&width=655&height=165&lines=%25+git+clone+https%3A%2F%2Fgithub.com%2Fid-andyyy%2FAlfaHack.git;%25+cd+AlfaHack;%25+pip+install+-r+requirements.txt;%25+python+main.py)](https://git.io/typing-svg)
 
 ```sh
 git clone https://github.com/id-andyyy/AlfaHack.git
